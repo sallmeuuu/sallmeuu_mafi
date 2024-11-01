@@ -1,4 +1,4 @@
-$(function(){
+$(function() {
     let input1 = "";
     let input2 = "";
     let operasiSelected = null;
